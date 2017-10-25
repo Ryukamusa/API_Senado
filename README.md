@@ -1,9 +1,5 @@
 # API_Senado
 
-
-
-# API_Senado
-
 Pacote com dois scripts que usam dados políticos, um para consumir a API do Senado com informação sobre os senadores, outra com idealização de uma rede-social sobre projetos políticos.
 
 
@@ -13,7 +9,6 @@ Pacote com dois scripts que usam dados políticos, um para consumir a API do Sen
 * Versão Atual: **1.0.0**
 * Atualizada em: 12-Ago-2017
 * Criação em: 10-Ago-2017
-* Proprietário: GoAgro
 * Editor(es): (**HMRA**) Hélio M. R. Almeida / helio.mgl@gmail.com
 
 
